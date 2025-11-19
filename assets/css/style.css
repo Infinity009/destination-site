@@ -170,7 +170,7 @@ h1 span {
     justify-content: center;
     align-items: center;
     padding: 0;
-    border-top: 5px solid #ff0000;
+    border-top: 3px solid #413a3a;
 
 }
 .slider .background {
@@ -352,7 +352,7 @@ h1 span {
     min-height: 100vh;
     overflow: hidden;
     display: block;
-    border-top: 5px solid #0f4f8b;
+    border-top: 3px solid #2f3133;
 }
 
 .moving-text-bg {
